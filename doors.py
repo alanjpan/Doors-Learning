@@ -8,7 +8,7 @@ Created on Sat Jan 5 17:01:06 2019
 Machine learning a doors maze with memory of past moves
 
 Suggested citation as computer software for reference:
-Pan, Alan J. (2018). Doors Learning [Computer software]. Github repository <https://github.com/alanjpan/Doors-Learning>
+Pan, Alan J. (2019). Doors Learning [Computer software]. Github repository <https://github.com/alanjpan/Doors-Learning>
 
 Note this software's license is GNU GPLv3.
 """
